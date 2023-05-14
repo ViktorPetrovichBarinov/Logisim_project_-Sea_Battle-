@@ -1,0 +1,131 @@
+Quantity of messages - 12
+Address - 0  ↓
+-----------------------------
+This game is "Sea Battle"!
+Have a good time!
+
+
+
+
+
+Click the "Red Button" to continue. 
+-----------------------------
+Address - 6  ↓
+-----------------------------
+Well, we need to arrange the ships.
+There is a keyboard below.
+Enter the coordinates of the ships
+I will ask for.
+First a letter, then a digit.
+For example: A2 or a2
+
+Click the "Red Button" to continue. 
+-----------------------------
+Address - 19  ↓
+-----------------------------
+Ships cannot be neighbors.
+You will have:
+1 ship with a length of 4.
+2 ships 3 in length.
+3 ships 2 in length.
+4 ships 1 in length.
+
+Click the "Red Button" to continue. 
+-----------------------------
+Address - 30  ↓
+-----------------------------
+Enter the first coordinate
+of the ship of length 4
+
+
+
+
+
+Click the "Red Button" to continue. 
+-----------------------------
+Address - 36  ↓
+-----------------------------
+Enter the second coordinate
+of the ship of length 4
+
+
+
+
+
+Click the "Red Button" to continue. 
+-----------------------------
+Address - 42  ↓
+-----------------------------
+Enter the first coordinate
+of the ship of length 3
+
+
+
+
+
+Click the "Red Button" to continue. 
+-----------------------------
+Address - 48  ↓
+-----------------------------
+Enter the second coordinate
+of the ship of length 3
+
+
+
+
+
+Click the "Red Button" to continue. 
+-----------------------------
+Address - 54  ↓
+-----------------------------
+Enter the first coordinate
+of the ship of length 2
+
+
+
+
+
+Click the "Red Button" to continue. 
+-----------------------------
+Address - 60  ↓
+-----------------------------
+Enter the second coordinate
+of the ship of length 2
+
+
+
+
+
+Click the "Red Button" to continue. 
+-----------------------------
+Address - 66  ↓
+-----------------------------
+Enter one coordinate for a ship of length 1
+
+
+
+
+
+Click the "Red Button" to continue. 
+-----------------------------
+Address - 72  ↓
+-----------------------------
+The field is being printed.
+Please wait!
+
+
+
+
+
+Click the "Red Button" to continue. 
+-----------------------------
+Address - 78  ↓
+-----------------------------
+You have entered an incorrect character.
+Please try again.
+
+
+
+
+Click the "Red Button" to continue. 
+-----------------------------
