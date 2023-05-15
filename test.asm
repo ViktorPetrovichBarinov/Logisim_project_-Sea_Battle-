@@ -17,14 +17,14 @@
 	jsr check_end_message
 	ldi r0, 19
 	stv r0, 0xff
-# #Снова проверка конца сообщения и пользователя
+#Снова проверка конца сообщения и пользователя
 
 
 
 
 
 
-######################################################################
+#####################################################################
 #Расставляем корабль длинны 4
 #Загружаем адресс сообщений в ячейку памяти	
 	ldi r0, 30 
@@ -45,6 +45,8 @@
 	ldi r0, 112
 	stv r0, 0xff
 	jsr ship_deliver
+	ldi r0, 4
+	jsr plus_number_tails
 ######################################################################
 
 
@@ -70,6 +72,8 @@
 	ldi r0, 112
 	stv r0, 0xff
 	jsr ship_deliver
+	ldi r0, 3
+	jsr plus_number_tails
 #Расставляем корабль длинны 3
 #Загружаем адресс сообщений в ячейку памяти	
 	ldi r0, 42 
@@ -86,10 +90,13 @@
 	ldi r0, 0xfc
 	ldi r1, 0
 	jsr print_field
+	
 #Печатаем сообщение о том, что корабль успешно поставлен
 	ldi r0, 112
 	stv r0, 0xff
 	jsr ship_deliver
+	ldi r0, 3
+	jsr plus_number_tails
 ######################################################################
 ######################################################################
 #Расставляем корабль длинны 2
@@ -112,6 +119,8 @@
 	ldi r0, 112
 	stv r0, 0xff
 	jsr ship_deliver
+	ldi r0, 2
+	jsr plus_number_tails
 
 #Расставляем корабль длинны 2
 #Загружаем адресс сообщений в ячейку памяти	
@@ -133,7 +142,8 @@
 	ldi r0, 112
 	stv r0, 0xff
 	jsr ship_deliver
-
+	ldi r0, 2
+	jsr plus_number_tails
 #Расставляем корабль длинны 2
 #Загружаем адресс сообщений в ячейку памяти	
 	ldi r0, 54 
@@ -154,6 +164,8 @@
 	ldi r0, 112
 	stv r0, 0xff
 	jsr ship_deliver
+	ldi r0, 2
+	jsr plus_number_tails
 ######################################################################
 ######################################################################
 #Расставляем корабль длинны 1
@@ -167,7 +179,7 @@
 	stv r0, 0xf2
 
 #Запускаем функцию расстановки кораблей
-	jsr ship_placement
+	jsr ship_placement1
 #После того как поставили корабль сразу печатаем поле
 	ldi r0, 0xfc
 	ldi r1, 0
@@ -176,6 +188,8 @@
 	ldi r0, 112
 	stv r0, 0xff
 	jsr ship_deliver
+	ldi r0, 1
+	jsr plus_number_tails
 #Расставляем корабль длинны 1
 #Загружаем адресс сообщений в ячейку памяти	
 	ldi r0, 66 
@@ -187,7 +201,7 @@
 	stv r0, 0xf2
 
 #Запускаем функцию расстановки кораблей
-	jsr ship_placement
+	jsr ship_placement1
 #После того как поставили корабль сразу печатаем поле
 	ldi r0, 0xfc
 	ldi r1, 0
@@ -196,7 +210,8 @@
 	ldi r0, 112
 	stv r0, 0xff
 	jsr ship_deliver
-
+	ldi r0, 1
+	jsr plus_number_tails
 #Расставляем корабль длинны 1
 #Загружаем адресс сообщений в ячейку памяти	
 	ldi r0, 66 
@@ -208,7 +223,7 @@
 	stv r0, 0xf2
 
 #Запускаем функцию расстановки кораблей
-	jsr ship_placement
+	jsr ship_placement1
 #После того как поставили корабль сразу печатаем поле
 	ldi r0, 0xfc
 	ldi r1, 0
@@ -217,7 +232,8 @@
 	ldi r0, 112
 	stv r0, 0xff
 	jsr ship_deliver
-
+	ldi r0, 1
+	jsr plus_number_tails
 #Расставляем корабль длинны 1
 #Загружаем адресс сообщений в ячейку памяти	
 	ldi r0, 66 
@@ -229,7 +245,7 @@
 	stv r0, 0xf2
 
 #Запускаем функцию расстановки кораблей
-	jsr ship_placement
+	jsr ship_placement1
 #После того как поставили корабль сразу печатаем поле
 	ldi r0, 0xfc
 	ldi r1, 0
@@ -238,18 +254,102 @@
 	ldi r0, 112
 	stv r0, 0xff
 	jsr ship_deliver
-
+	ldi r0, 1
+	jsr plus_number_tails
 
 
 	halt
 	
+
+#в r0 передаём сколько хотим прибавить к тайлам игрока
+plus_number_tails:
+	push r1 
+	ldv 0xf0, r1 
+	add r0, r1 
+	stv r1, 0xf0 
+	pop r1 
+rts 
+ship_placement1:
+	setsp 0xed #отодвигает стэкпоинтер на два влево т.к. 2 байта занято под выход из функции
+
+	jsr check_end_message
+	ldv 0xf3, r0
+	stv r0, 0xff
+	jsr check_end_message
+# в r0 - буква
+# в r1 - цифра
+	jsr get_symbol_and_digit
+# цифру в стэк	
+	push r1 
+
+#Проверяем, что это буква в пределах от A до J
+	ldi r1, 65
+	ldi r2, 75	
+	jsr check_correct
+#если она не в пределах, то
+	if
+		tst r1 
+	is eq 
+		jsr wrong_symbols
+		jmp ship_placement1
+	fi 
+#достаём цифру
+	pop r1 
+#засовываем букву обратно в стэк
+	push r0
+	move r1, r0  
+#Проверяем, что это цифра
+	ldi r1, 48 
+	ldi r2, 58 
+	jsr check_correct
+	if
+		tst r1 
+	is eq 
+		pop r0 
+		jsr wrong_symbols
+		jmp ship_placement1
+	fi 
+	pop r1 
+#В r0 цифра r1 - буква
+	
+	ldi r2, -65
+	add r1, r2 
+	shla r2
+	move r2, r3 
+	shla r3 
+	shla r3 
+	add r3, r2 
+	ldi r3, -48 
+	add r0, r3 
+	add r3, r2 
+	ld r2, r2 
 	
 
+	if 
+		dec r2 
+	is eq 
+		jsr wrong_coordinates
+		jmp ship_placement1
+	fi 
+	if 
+		dec r2 
+	is eq 
+		jsr wrong_coordinates
+		jmp ship_placement1
+	fi 
+	push r1 
+	move r0, r1 
+	pop r0
+	
+#r0 - буква r1 - цифра 
+	jsr load
+	jsr store_ship
 
+rts 
 
 ship_placement:
 	setsp 0xed #отодвигает стэкпоинтер на два влево т.к. 2 байта занято под выход из функции
-#Просьба ввести первую координату корабля длинны 4
+
 	jsr check_end_message
 	ldv 0xf3, r0
 	stv r0, 0xff
