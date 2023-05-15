@@ -1,722 +1,2247 @@
 {
     "0": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
         "line": 2
     },
     "2": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 4
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 5
     },
     "5": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 5
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 6
     },
     "7": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 6
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 7
     },
     "9": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 7
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 8
     },
     "12": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 11
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 12
+    },
+    "14": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 13
     },
     "15": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 12
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 13
     },
     "17": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
         "line": 13
     },
     "18": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
         "line": 13
     },
-    "20": {
+    "19": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 13
-    },
-    "21": {
-        "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 13
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 17
     },
     "22": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 17
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 18
+    },
+    "24": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 19
     },
     "25": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 18
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 19
     },
     "27": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
         "line": 19
     },
     "28": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
         "line": 19
     },
-    "30": {
+    "29": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 19
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 23
     },
     "31": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 19
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 24
     },
     "32": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 23
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 24
+    },
+    "34": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 24
     },
     "35": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 29
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 24
     },
     "36": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 36
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 25
     },
-    "38": {
+    "39": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 38
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 26
     },
     "41": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 39
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 27
     },
     "43": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 40
-    },
-    "44": {
-        "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 40
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 28
     },
     "46": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 40
-    },
-    "47": {
-        "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 40
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 29
     },
     "48": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 44
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 30
+    },
+    "49": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 30
     },
     "51": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 46
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 30
     },
     "52": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 49
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 30
     },
-    "54": {
+    "53": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 50
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 31
     },
     "56": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 51
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 34
+    },
+    "58": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 35
     },
     "59": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 54
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 35
+    },
+    "61": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 35
     },
     "62": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 56
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 35
     },
-    "65": {
+    "63": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 57
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 36
+    },
+    "66": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 37
     },
     "68": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 60
-    },
-    "69": {
-        "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 62
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 38
     },
     "70": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 63
-    },
-    "71": {
-        "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 65
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 39
     },
     "73": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 66
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 40
     },
     "75": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 67
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 41
+    },
+    "76": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 41
     },
     "78": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 69
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 41
     },
-    "81": {
+    "79": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 71
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 41
     },
-    "82": {
+    "80": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 72
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 42
+    },
+    "83": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 44
     },
     "85": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 73
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 45
+    },
+    "86": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 45
     },
     "88": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 76
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 45
     },
     "89": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 81
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 45
     },
     "90": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 88
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 46
     },
     "93": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 90
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 47
     },
-    "96": {
+    "95": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 91
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 48
     },
     "97": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 92
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 49
     },
     "100": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 94
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 50
+    },
+    "102": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 51
     },
     "103": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 95
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 51
     },
-    "104": {
+    "105": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 96
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 51
+    },
+    "106": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 51
     },
     "107": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 97
-    },
-    "108": {
-        "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 98
-    },
-    "109": {
-        "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 100
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 52
     },
     "110": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 105
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 54
+    },
+    "112": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 55
     },
     "113": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 106
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 55
     },
     "115": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 107
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 55
     },
     "116": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 107
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 55
     },
-    "118": {
+    "117": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 107
-    },
-    "119": {
-        "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 107
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 56
     },
     "120": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 108
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 57
     },
-    "123": {
+    "122": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 109
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 58
     },
     "124": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 117
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 59
     },
-    "126": {
+    "127": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 120
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 60
     },
     "129": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 122
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 61
     },
-    "131": {
+    "130": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 124
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 61
+    },
+    "132": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 61
+    },
+    "133": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 61
     },
     "134": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 126
-    },
-    "136": {
-        "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 127
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 62
     },
     "137": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 132
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 65
     },
     "138": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 140
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 72
     },
-    "141": {
+    "140": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 142
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 74
     },
-    "142": {
+    "143": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 146
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 75
     },
     "145": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 148
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 76
     },
     "146": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 150
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 76
     },
-    "147": {
+    "148": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 161
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 76
     },
     "149": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 166
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 76
     },
-    "151": {
+    "150": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 167
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 77
     },
     "153": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 169
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 80
     },
     "156": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 173
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 82
+    },
+    "157": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 85
     },
     "159": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 175
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 86
     },
     "161": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 176
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 87
     },
-    "162": {
+    "164": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 177
-    },
-    "163": {
-        "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 182
-    },
-    "165": {
-        "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 183
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 90
     },
     "167": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 184
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 92
     },
-    "169": {
+    "170": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 186
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 93
     },
-    "172": {
+    "173": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 188
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 96
+    },
+    "174": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 98
     },
     "175": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 190
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 99
     },
     "176": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 191
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 101
     },
-    "177": {
+    "178": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 194
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 102
     },
-    "179": {
+    "180": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 195
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 103
     },
-    "181": {
+    "183": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 196
-    },
-    "182": {
-        "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 197
-    },
-    "184": {
-        "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 198
-    },
-    "185": {
-        "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 199
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 105
     },
     "186": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 202
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 107
     },
-    "188": {
+    "187": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 203
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 108
     },
-    "189": {
+    "190": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 203
-    },
-    "191": {
-        "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 203
-    },
-    "192": {
-        "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 203
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 109
     },
     "193": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 204
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 112
     },
     "194": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 205
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 119
     },
-    "195": {
+    "196": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 205
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 120
     },
     "197": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 205
-    },
-    "198": {
-        "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 205
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 120
     },
     "199": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 206
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 120
     },
     "200": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 226
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 120
     },
-    "202": {
+    "201": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 227
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 121
     },
-    "203": {
+    "204": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 227
-    },
-    "205": {
-        "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 227
-    },
-    "206": {
-        "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 227
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 124
     },
     "207": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 229
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 126
     },
-    "209": {
+    "208": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 230
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 129
     },
     "210": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 232
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 130
     },
-    "213": {
+    "212": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 234
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 131
     },
     "215": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 235
-    },
-    "216": {
-        "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 237
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 134
     },
     "218": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 238
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 136
     },
-    "220": {
+    "221": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 241
-    },
-    "223": {
-        "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 244
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 137
     },
     "224": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 245
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 140
     },
     "225": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 246
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 142
     },
     "226": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 248
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 143
     },
-    "228": {
+    "227": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 250
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 145
+    },
+    "229": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 146
     },
     "231": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 252
-    },
-    "232": {
-        "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 253
-    },
-    "233": {
-        "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 254
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 147
     },
     "234": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 255
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 149
     },
     "237": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 260
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 151
     },
     "238": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 261
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 152
     },
-    "239": {
+    "241": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 262
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 153
     },
-    "240": {
+    "244": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 264
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 161
     },
-    "242": {
+    "245": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 265
-    },
-    "243": {
-        "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 266
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 162
     },
     "246": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 269
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 163
     },
-    "249": {
+    "247": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 270
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 167
     },
     "250": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 274
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 170
+    },
+    "251": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 171
     },
     "252": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 275
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 173
     },
-    "254": {
+    "253": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 278
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 175
     },
-    "257": {
+    "255": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 280
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 175
     },
-    "258": {
+    "256": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
-        "line": 281
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 177
+    },
+    "259": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 179
+    },
+    "260": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 180
     },
     "261": {
         "column": 0,
-        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\projectNEW\\test.asm",
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 183
+    },
+    "264": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 185
+    },
+    "265": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 188
+    },
+    "266": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 191
+    },
+    "269": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 193
+    },
+    "270": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 194
+    },
+    "271": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 197
+    },
+    "272": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 198
+    },
+    "273": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 199
+    },
+    "274": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 201
+    },
+    "277": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 203
+    },
+    "278": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 206
+    },
+    "281": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 207
+    },
+    "284": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 210
+    },
+    "285": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 211
+    },
+    "286": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 212
+    },
+    "287": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 213
+    },
+    "288": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 214
+    },
+    "289": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 215
+    },
+    "290": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 219
+    },
+    "293": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 221
+    },
+    "294": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 222
+    },
+    "295": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 223
+    },
+    "296": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 224
+    },
+    "298": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 226
+    },
+    "301": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 228
+    },
+    "302": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 230
+    },
+    "303": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 232
+    },
+    "306": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 234
+    },
+    "307": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 236
+    },
+    "310": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 237
+    },
+    "313": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 240
+    },
+    "316": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 241
+    },
+    "319": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 242
+    },
+    "320": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 249
+    },
+    "321": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 251
+    },
+    "324": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 253
+    },
+    "325": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 254
+    },
+    "327": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 255
+    },
+    "328": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 256
+    },
+    "329": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 257
+    },
+    "330": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 258
+    },
+    "331": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 259
+    },
+    "332": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 260
+    },
+    "333": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 262
+    },
+    "335": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 263
+    },
+    "336": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 264
+    },
+    "337": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 265
+    },
+    "338": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 267
+    },
+    "341": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 269
+    },
+    "344": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 270
+    },
+    "347": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 273
+    },
+    "350": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 275
+    },
+    "353": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 276
+    },
+    "356": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 278
+    },
+    "357": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 279
+    },
+    "360": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 281
+    },
+    "363": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 282
+    },
+    "364": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
         "line": 283
+    },
+    "366": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 283
+    },
+    "367": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 284
+    },
+    "368": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 285
+    },
+    "369": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 286
+    },
+    "370": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 288
+    },
+    "373": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 290
+    },
+    "374": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 291
+    },
+    "375": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 292
+    },
+    "376": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 293
+    },
+    "377": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 294
+    },
+    "378": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 295
+    },
+    "379": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 296
+    },
+    "382": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 297
+    },
+    "383": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 298
+    },
+    "384": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 299
+    },
+    "385": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 300
+    },
+    "388": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 302
+    },
+    "389": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 309
+    },
+    "391": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 310
+    },
+    "392": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 313
+    },
+    "394": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 314
+    },
+    "395": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 317
+    },
+    "396": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 318
+    },
+    "397": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 319
+    },
+    "398": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 320
+    },
+    "399": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 321
+    },
+    "400": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 322
+    },
+    "401": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 323
+    },
+    "402": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 327
+    },
+    "404": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 328
+    },
+    "405": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 331
+    },
+    "406": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 336
+    },
+    "409": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 338
+    },
+    "412": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 341
+    },
+    "415": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 343
+    },
+    "418": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 347
+    },
+    "419": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 348
+    },
+    "420": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 349
+    },
+    "422": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 350
+    },
+    "423": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 351
+    },
+    "426": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 355
+    },
+    "429": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 357
+    },
+    "432": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 360
+    },
+    "433": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 361
+    },
+    "434": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 362
+    },
+    "436": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 363
+    },
+    "437": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 364
+    },
+    "440": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 367
+    },
+    "443": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 369
+    },
+    "446": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 372
+    },
+    "448": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 375
+    },
+    "451": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 377
+    },
+    "454": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 380
+    },
+    "455": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 381
+    },
+    "456": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 382
+    },
+    "458": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 383
+    },
+    "459": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 384
+    },
+    "462": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 386
+    },
+    "464": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 389
+    },
+    "467": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 391
+    },
+    "470": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 394
+    },
+    "471": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 395
+    },
+    "472": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 396
+    },
+    "474": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 397
+    },
+    "475": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 398
+    },
+    "478": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 400
+    },
+    "480": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 403
+    },
+    "483": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 405
+    },
+    "486": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 409
+    },
+    "489": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 411
+    },
+    "492": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 414
+    },
+    "493": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 415
+    },
+    "494": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 416
+    },
+    "496": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 417
+    },
+    "497": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 418
+    },
+    "500": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 420
+    },
+    "502": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 422
+    },
+    "505": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 424
+    },
+    "508": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 427
+    },
+    "509": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 428
+    },
+    "510": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 429
+    },
+    "512": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 430
+    },
+    "513": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 431
+    },
+    "516": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 433
+    },
+    "518": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 435
+    },
+    "521": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 437
+    },
+    "524": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 440
+    },
+    "527": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 442
+    },
+    "530": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 445
+    },
+    "531": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 446
+    },
+    "532": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 447
+    },
+    "534": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 448
+    },
+    "535": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 449
+    },
+    "538": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 452
+    },
+    "541": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 454
+    },
+    "544": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 456
+    },
+    "545": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 457
+    },
+    "546": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 458
+    },
+    "548": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 459
+    },
+    "549": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 460
+    },
+    "552": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 463
+    },
+    "553": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 464
+    },
+    "554": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 471
+    },
+    "555": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 473
+    },
+    "558": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 475
+    },
+    "561": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 477
+    },
+    "563": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 478
+    },
+    "564": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 480
+    },
+    "565": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 487
+    },
+    "568": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 489
+    },
+    "571": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 490
+    },
+    "572": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 491
+    },
+    "575": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 493
+    },
+    "578": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 494
+    },
+    "579": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 495
+    },
+    "582": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 496
+    },
+    "583": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 497
+    },
+    "584": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 499
+    },
+    "585": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 504
+    },
+    "586": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 505
+    },
+    "588": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 506
+    },
+    "589": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 506
+    },
+    "591": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 506
+    },
+    "592": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 506
+    },
+    "593": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 507
+    },
+    "594": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 508
+    },
+    "597": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 509
+    },
+    "598": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 513
+    },
+    "599": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 514
+    },
+    "601": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 515
+    },
+    "602": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 515
+    },
+    "604": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 515
+    },
+    "605": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 515
+    },
+    "606": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 516
+    },
+    "607": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 517
+    },
+    "610": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 518
+    },
+    "611": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 523
+    },
+    "612": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 524
+    },
+    "614": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 525
+    },
+    "615": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 525
+    },
+    "617": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 525
+    },
+    "618": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 525
+    },
+    "619": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 526
+    },
+    "620": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 527
+    },
+    "623": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 528
+    },
+    "624": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 533
+    },
+    "625": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 534
+    },
+    "627": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 535
+    },
+    "628": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 535
+    },
+    "630": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 535
+    },
+    "631": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 535
+    },
+    "632": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 536
+    },
+    "635": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 537
+    },
+    "636": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 538
+    },
+    "637": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 541
+    },
+    "638": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 542
+    },
+    "640": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 543
+    },
+    "641": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 543
+    },
+    "643": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 543
+    },
+    "644": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 543
+    },
+    "645": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 544
+    },
+    "646": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 545
+    },
+    "647": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 548
+    },
+    "648": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 549
+    },
+    "650": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 550
+    },
+    "651": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 550
+    },
+    "653": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 550
+    },
+    "654": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 550
+    },
+    "655": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 551
+    },
+    "656": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 552
+    },
+    "657": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 558
+    },
+    "659": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 561
+    },
+    "662": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 563
+    },
+    "664": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 565
+    },
+    "667": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 567
+    },
+    "669": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 568
+    },
+    "670": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 573
+    },
+    "671": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 581
+    },
+    "674": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 583
+    },
+    "675": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 587
+    },
+    "678": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 589
+    },
+    "679": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 591
+    },
+    "680": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 602
+    },
+    "682": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 607
+    },
+    "684": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 608
+    },
+    "686": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 610
+    },
+    "689": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 614
+    },
+    "692": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 616
+    },
+    "694": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 617
+    },
+    "695": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 618
+    },
+    "696": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 623
+    },
+    "698": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 624
+    },
+    "700": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 625
+    },
+    "702": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 627
+    },
+    "705": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 629
+    },
+    "708": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 631
+    },
+    "709": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 632
+    },
+    "710": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 635
+    },
+    "712": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 636
+    },
+    "714": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 637
+    },
+    "715": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 638
+    },
+    "717": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 639
+    },
+    "718": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 640
+    },
+    "719": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 643
+    },
+    "721": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 644
+    },
+    "722": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 644
+    },
+    "724": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 644
+    },
+    "725": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 644
+    },
+    "726": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 645
+    },
+    "727": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 646
+    },
+    "728": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 646
+    },
+    "730": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 646
+    },
+    "731": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 646
+    },
+    "732": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 647
+    },
+    "733": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 667
+    },
+    "735": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 668
+    },
+    "736": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 668
+    },
+    "738": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 668
+    },
+    "739": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 668
+    },
+    "740": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 670
+    },
+    "742": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 671
+    },
+    "743": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 673
+    },
+    "746": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 675
+    },
+    "748": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 676
+    },
+    "749": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 678
+    },
+    "751": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 679
+    },
+    "753": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 682
+    },
+    "756": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 685
+    },
+    "757": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 686
+    },
+    "758": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 687
+    },
+    "759": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 689
+    },
+    "761": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 691
+    },
+    "764": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 693
+    },
+    "765": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 694
+    },
+    "766": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 695
+    },
+    "767": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 696
+    },
+    "770": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 701
+    },
+    "771": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 702
+    },
+    "772": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 703
+    },
+    "773": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 705
+    },
+    "775": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 706
+    },
+    "776": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 707
+    },
+    "779": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 710
+    },
+    "782": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 711
+    },
+    "783": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 715
+    },
+    "785": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 716
+    },
+    "787": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 719
+    },
+    "790": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 721
+    },
+    "791": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 722
+    },
+    "794": {
+        "column": 0,
+        "file": "C:\\Users\\chydi\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Logisim_project_-Sea_Battle-\\test.asm",
+        "line": 724
     }
 }

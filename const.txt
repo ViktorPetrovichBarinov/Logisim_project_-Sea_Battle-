@@ -1,4 +1,4 @@
-Quantity of messages - 12
+Quantity of messages - 17
 Address - 0  ↓
 -----------------------------
 This game is "Sea Battle"!
@@ -112,6 +112,17 @@ Address - 72  ↓
 -----------------------------
 The field is being printed.
 Please wait!
+   Please wait!
+      Please wait!
+         Please wait!
+            Please wait!
+               Please wait!
+                  Please wait! 
+-----------------------------
+Address - 84  ↓
+-----------------------------
+You have entered an incorrect symbols.
+Please try again.
 
 
 
@@ -119,13 +130,58 @@ Please wait!
 
 Click the "Red Button" to continue. 
 -----------------------------
-Address - 78  ↓
+Address - 91  ↓
 -----------------------------
-You have entered an incorrect character.
+You have entered coordinates
+of incorrect length.
 Please try again.
 
 
 
 
 Click the "Red Button" to continue. 
+-----------------------------
+Address - 98  ↓
+-----------------------------
+You have entered incorrect coordinates
+Please try again.
+
+
+
+
+
+Click the "Red Button" to continue. 
+-----------------------------
+Address - 105  ↓
+-----------------------------
+Your coordinates intersect
+with other ships or are their neighbors.
+
+
+
+
+
+Click the "Red Button" to continue. 
+-----------------------------
+Address - 112  ↓
+-----------------------------
+The ship was successfully delivered!
+
+
+
+
+
+
+Click the "Red Button" to continue. 
+-----------------------------
+Address - 117  ↓
+-----------------------------
+L    OOOO  AA     D O N  N  GG
+L    O  O A  A  DDD I NN N    G
+L    O  O AAAA D  D I N NN GG G
+LLLL OOOO A  A  DDD I N  N  GG
+
+
+
+Please, wait! 
 -----------------------------
