@@ -1,4 +1,4 @@
-Quantity of messages - 19
+Quantity of messages - 28
 Address - 0  ↓
 -----------------------------
 This game is "Sea Battle"!
@@ -196,6 +196,99 @@ Address - 130  ↓
 The bot has arranged the ships.
 
 
+
+
+
+
+Click the "Red Button" to continue. 
+-----------------------------
+Address - 135  ↓
+-----------------------------
+Enter the coordinates of the ship
+to hit the enemy field.
+It's your turn now.
+
+
+
+
+Click the "Red Button" to continue. 
+-----------------------------
+Address - 143  ↓
+-----------------------------
+Alas, you didn't hit it.
+
+
+
+
+
+Click the "Red Button" to continue. 
+-----------------------------
+Address - 148  ↓
+-----------------------------
+It is better not to shoot at this cell.
+You already know what is there.
+Try again.
+
+
+
+
+Click the "Red Button" to continue. 
+-----------------------------
+Address - 156  ↓
+-----------------------------
+You hit the enemy's ship.
+You are given another move.
+
+
+
+
+
+Click the "Red Button" to continue. 
+-----------------------------
+Address - 162  ↓
+-----------------------------
+You killed the enemy ship
+
+
+
+
+Click the "Red Button" to continue. 
+-----------------------------
+Address - 167  ↓
+-----------------------------
+Click the "Red Button" to reset.
+You won! You won! You won!
+Click the "Red Button" to reset.
+You won! You won! You won!
+Click the "Red Button" to reset.
+You won! You won! You won!
+Click the "Red Button" to reset. 
+-----------------------------
+Address - 181  ↓
+-----------------------------
+Click the "Red Button" to reset.
+You lost! You lost! You lost!
+Click the "Red Button" to reset.
+You lost! You lost! You lost!
+Click the "Red Button" to reset.
+You lost! You lost! You lost!
+Click the "Red Button" to reset. 
+-----------------------------
+Address - 195  ↓
+-----------------------------
+Bot missed.
+The move passes to you.
+
+
+
+
+
+Click the "Red Button" to continue. 
+-----------------------------
+Address - 200  ↓
+-----------------------------
+The bot got hit,
+the move remains with him.
 
 
 

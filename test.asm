@@ -1,12 +1,21 @@
-	asect 0x00
- 	setsp 0xdf
-	
 
+	asect 0x00
+
+	setsp 0xdf
+	
+	
 ################################################################################################
 #В следующем блоке происходят действия в начале программы
 ################################################################################################
 #выводим сообщение 
 	jsr check_end_message
+
+start:	 	
+	#очищаем поля на случай, если пользователь хочет поиграть ещё раз
+	ldi r2, 31 
+	stv r2, 0xfc
+	stv r2, 0xfa
+
 #выводим поле
 	jsr print_player_field
 #В начале программы выводиться приветственное сообщение 
@@ -18,6 +27,11 @@
 	jsr third_message
 	jsr check_end_message
 	jsr rand_bot
+	ldi r3, 20 
+	stv r3, 0xf1
+	jsr check_end_message
+	
+	
 
 #Проверка конца сообщения не нужна, потому что потом вызываем функцию расстановки корабле
 ################################################################################################
@@ -131,9 +145,244 @@
 	jsr ship_deliver
 	ldi r0, 1
 	jsr plus_number_tails
+	jsr check_end_message
+######################################################################
+#
+######################################################################
+	jsr players_move
 
 	halt
+################################################################################################
+
+     ###     #         #  #       #  #     #  #        #     #        #  #        #                      
+   ## # ##    #       #   #       #  #    #   #        #     #       ##  #       ##                 
+  #   #   #    #     #    #       #  #   #    #        #     #      # #  #      # #          
+  #   #   #     #   #     #       #  #  #     #        #     #     #  #  #     #  #          
+   ## # ##       # #      #       #  # #      #        #     #    #   #  #    #   #       
+     ###          #       #########  ##       #        #     #   #    #  #   #    #               
+      #          #        #       #  # #      #        #     #  #     #  #  #     #           
+      #         #         #       #  #  #     #############  # #      #  # #      #                
+      #        #          #       #  #   #                #  ##       #  ##       #   
+      #       #           #       #  #    #               #  #        #  #        #            
+
+################################################################################################
+
+bot_move:
+setsp 0xdd
+	ldv 0xfe, r0 
+	ldi r1, 0b00010000
+	or r0, r1 
+	stv r1, 0xfe
+	stv r0, 0xfe
+
+	ldv 0xf8, r0 
+	ld r0, r1 
 	
+	if 
+		tst r1 
+	is eq 
+		ldi r1, 4
+		st r0, r1 
+		jsr bot_missed
+		jsr check_end_message
+		jsr print_player_field
+		jmp players_move
+	fi 
+
+	if 
+		dec r1 
+	is eq 
+		
+		
+
+
+		ldi r1, 3
+		st r0, r1
+		jsr bot_got_hit
+		jsr check_end_message
+		jsr print_player_field
+		ldv 0xf0, r3 
+		if
+			dec r3 
+		is eq 
+			stv r3, 0xf0
+			jsr you_lost
+			jsr check_end_message
+			jmp start
+		fi
+		stv r3, 0xf0
+		jmp bot_move
+	fi
+	jmp bot_move
+
+
+rts
+
+players_move:
+setsp 0xdd
+#Передаём дисплею состояние, что сейчас ход игрока
+	ldi r0, 1
+	stv r0, 0xf9
+
+#Выводим сообщение пользовотелю, что сейчас его ход и надо ввести координаты куда хочешь ударить
+	jsr enter_coordinates_to_hit
+	jsr check_end_message
+#Получаем от пользователя букву и цифур	
+	jsr get_symbol_and_digit
+#r0 - буква
+#r1 - цифра
+###проверка корректности введённых символов
+	push r1 
+	ldi r1, 65
+	ldi r2, 75	
+	jsr check_correct
+	if
+		tst r1 
+	is eq 
+		jsr wrong_symbols
+		jsr check_end_message
+		jmp players_move
+	fi 
+	pop r1 
+	push r0
+	move r1, r0  
+	ldi r1, 48 
+	ldi r2, 58 
+	jsr check_correct
+	if
+		tst r1 
+	is eq 
+		pop r0 
+		jsr wrong_symbols
+		jsr check_end_message
+		jmp players_move
+		
+	fi 
+	move r0, r1 
+	pop r0
+	jsr from_figures_to_coord_bot
+########################
+
+#r2 - ячейка памяти по индексу
+	ld r2, r3 
+
+#Мы можем либо попасть либо, либо не попасть по кораблю, 
+#либо пользователь может попытаться попасть в уже открытые ячейки
+
+#Если в ячейки ничего, то мы ни попали по кораблю -> наш ход заканчивается
+	if 
+		tst r3 
+	is eq 
+		jsr didnt_hit
+		push r2
+		jsr check_end_message
+		pop r2 
+		ldi r3, 4
+		st r2, r3 # записываем, что сюда уже стреляли
+		jsr print_bot_field
+		jmp bot_move
+		rts 
+	fi 
+
+# в r2 храниться индекс в массиве бота который обрабатываем
+#освобождаем это регистр
+	push r2  
+	ldi r2, 4
+#если в ячейке которую мы считали 4 -> тут помечен выстрел
+#вывести ошибку, что сюда лучше не стрелять и попробуйте ещё раз
+	if 
+		cmp r2, r3 
+	is eq 
+		jsr know_error
+		jsr check_end_message
+		pop r2 
+		jmp players_move
+	fi 
+
+	ldi r2, 3 
+	
+	if
+		cmp r2, r3 
+	is eq 
+		jsr know_error
+		jsr check_end_message
+		pop r2 
+		jmp players_move
+	fi  
+
+	ldv 0xf1, r3 
+	 
+	if 
+		dec r3 
+	is eq
+		stv r3, 0xf1 
+		pop r2 
+		ldi r3, 3
+		st r2, r3 
+		jsr print_bot_field
+		ldi r0, 3
+		stv r0, 0xf9
+		jsr you_won
+		jsr check_end_message
+		jmp start
+	fi 
+	stv r3, 0xf1 
+	pop r2 
+	ldi r3, 3
+	st r2, r3 
+	jsr print_bot_field
+	jmp players_move
+#r0 - по y
+#r1 - по x
+#r2 - адресс
+
+
+
+
+
+
+rts
+
+
+
+
+
+
+
+
+
+
+
+
+#в r0 - буква
+#в r1 - цифра
+from_figures_to_coord_bot:
+	push r3 
+	ldi r2, -65 
+	add r2, r0 
+	ldi r2, -48
+	add r2, r1
+#r0 - координата по y
+#r1 - координата по x
+	move r0, r2 
+	shla r2 
+	move r2, r3 
+	shla r3 
+	shla r3 
+	add r3, r2
+	add r1, r2  
+#r0 - координата по y
+#r1 - координата по x
+#r2 - индекс в массиве
+	ldi r3, 100
+	add r3, r2 
+	pop r3
+rts 
+
+
+
+
+
 #в r0 передаём сколько хотим прибавить к тайлам игрока
 plus_number_tails:
 	push r1 
@@ -142,6 +391,7 @@ plus_number_tails:
 	stv r1, 0xf0 
 	pop r1 
 rts 
+
 ship_placement1:
 	setsp 0xdd #отодвигает стэкпоинтер на два влево т.к. 2 байта занято под выход из функции
 
@@ -836,7 +1086,7 @@ print_field:
 #печатаем " 0123456789"
 	jsr print_fst_str
 #вывод \n
-	ldi r2, 27
+	ldi r2, 26
 	st r0, r2
 #загружаем константы для печати "ABCDEFGHIJ"
 	ldi r2, 16
@@ -866,7 +1116,7 @@ print_field:
 		st r0, r2
 		inc r2 
 	#выводим \n
-		ldi r3, 27
+		ldi r3, 26
 		st r0, r3 
 		pop r3 
 	wend 
@@ -948,17 +1198,17 @@ rts
 
 #требует в r0 - адресс сообщения которое надо вывести
 second_message:
-		push r0
-		ldi r0, 6
-		stv r0, 0xff
-		pop r0
+	push r0
+	ldi r0, 6
+	stv r0, 0xff
+	pop r0
 rts
 
 third_message:
-		push r0
-		ldi r0, 19
-		stv r0, 0xff
-		pop r0
+	push r0
+	ldi r0, 19
+	stv r0, 0xff
+	pop r0
 rts
 
 pleas_wait:
@@ -970,30 +1220,30 @@ rts
 #функция выводит сообщение о том что введены некорректные символы
 # и очищает клавиатуру
 wrong_symbols: 
-		push r0
-		ldi r0, 84
-		stv r0, 0xff
-		pop r0
-		jsr clean_keyboard
+	push r0
+	ldi r0, 84
+	stv r0, 0xff
+	pop r0
+	jsr clean_keyboard
 rts 
 #функция выводит сообщение о том что введен корабль некорректной длинны
 # и очищает клавиатуру
 wrong_length: 
-		push r0 
-		ldi r0, 91
-		stv r0, 0xff
-		pop r0
-		jsr clean_keyboard
+	push r0 
+	ldi r0, 91
+	stv r0, 0xff
+	pop r0
+	jsr clean_keyboard
 rts 
 
 #функция выводит сообщение о том что введены некорректные координаты
 # и очищает клавиатуру
 wrong_coordinates: 
-		push r0 
-		ldi r0, 98
-		stv r0, 0xff
-		pop r0
-		jsr clean_keyboard
+	push r0 
+	ldi r0, 98
+	stv r0, 0xff
+	pop r0
+	jsr clean_keyboard
 rts
 
 
@@ -1001,34 +1251,34 @@ rts
 #функция выводит сообщение о том что введены соседствующие координаты
 #и очищает клавиатуру
 naighbors_coordinates:
-		push r0 
-		ldi r0, 105
-		stv r0, 0xff
-		pop r0
-		jsr clean_keyboard
+	push r0 
+	ldi r0, 105
+	stv r0, 0xff
+	pop r0
+	jsr clean_keyboard
 rts
 
 #корабль успешно поставлен
 ship_deliver:
-		push r0 
-		ldi r0, 112
-		stv r0, 0xff
-		pop r0
+	push r0 
+	ldi r0, 112
+	stv r0, 0xff
+	pop r0
 rts 
 
 #load ascii кодом
 load:
-		push r0 
-		ldi r0, 117
-		stv r0, 0xff
-		pop r0
+	push r0 
+	ldi r0, 117
+	stv r0, 0xff
+	pop r0
 rts 
 
 bot_trying:
-		push r0 
-		ldi r0, 126
-		stv r0, 0xff
-		pop r0
+	push r0 
+	ldi r0, 126
+	stv r0, 0xff
+	pop r0
 rts
 
 bot_arranged:
@@ -1037,4 +1287,68 @@ bot_arranged:
 	stv r0, 0xff
 	pop r0
 rts
+
+enter_coordinates_to_hit:
+	push r0 
+	ldi r0, 135
+	stv r0, 0xff
+	pop r0
+rts
+
+didnt_hit:
+	push r0
+	ldi r0, 143
+	stv r0, 0xff
+	pop r0
+rts
+
+know_error:
+	push r0
+	ldi r0, 148 
+	stv r0, 0xff
+	pop r0
+rts 
+
+hit_the_ship:
+	push r0
+	ldi r0, 156 
+	stv r0, 0xff
+	pop r0	
+rts
+
+kill_the_ship:
+	push r0
+	ldi r0, 162 
+	stv r0, 0xff
+	pop r0	
+rts
+
+you_won:
+	push r0
+	ldi r0, 167 
+	stv r0, 0xff
+	pop r0	
+rts
+
+you_lost:
+	push r0
+	ldi r0, 181 
+	stv r0, 0xff
+	pop r0	
+rts
+
+bot_missed:
+	push r0
+	ldi r0, 195 
+	stv r0, 0xff
+	pop r0	
+rts
+
+bot_got_hit:
+	push r0
+	ldi r0, 200 
+	stv r0, 0xff
+	pop r0	
+rts
+
 end
