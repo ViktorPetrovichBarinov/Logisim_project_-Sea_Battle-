@@ -1,4 +1,4 @@
-Quantity of messages - 17
+Quantity of messages - 19
 Address - 0  ↓
 -----------------------------
 This game is "Sea Battle"!
@@ -184,4 +184,21 @@ LLLL OOOO A  A  DDD I N  N  GG
 
 
 Please, wait! 
+-----------------------------
+Address - 126  ↓
+-----------------------------
+The bot sets up ships
+Be patient, he's really trying.
+ 
+-----------------------------
+Address - 130  ↓
+-----------------------------
+The bot has arranged the ships.
+
+
+
+
+
+
+Click the "Red Button" to continue. 
 -----------------------------

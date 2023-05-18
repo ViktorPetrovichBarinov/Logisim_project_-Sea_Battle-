@@ -16,6 +16,9 @@
 #Опять проверка, что сообщение закончилось и пользователь готов к следующему
 #Вывод следующего сообщения с тем какие коробли имеются
 	jsr third_message
+	jsr check_end_message
+	jsr rand_bot
+
 #Проверка конца сообщения не нужна, потому что потом вызываем функцию расстановки корабле
 ################################################################################################
 
@@ -46,13 +49,11 @@
 	jsr ship_deliver
 	ldi r0, 4
 	jsr plus_number_tails
-	ldi r0, 0b01000000
-	stv r0, 0xfe
-	ldi r0, 0
-	stv r0, 0xfe
+	
+	
+	
 
-	jsr rand_bot
-	jsr print_bot_field
+
 ######################################################################
 #В Следубщем блоке делаем тоже что и при расстановки 4-х клеточного корабля, только с 3-х клеточным и два раза
 ######################################################################
@@ -887,10 +888,15 @@ print_fst_str:
 rts
 
 rand_bot:
+	jsr bot_trying
 	push r0
 	push r1 
 	push r2 
 	push r3
+	ldi r0, 0b01000000
+	stv r0, 0xfe
+	ldi r0, 0
+	stv r0, 0xfe
 	ldi r0, 100 
 	ldi r1, 200
 	while 
@@ -904,6 +910,8 @@ rand_bot:
 		ldi r3, 0
 		stv r3, 0xfe
 	wend
+	jsr print_bot_field
+	jsr bot_arranged
 	pop r3
 	pop r2 
 	pop r1
@@ -988,6 +996,8 @@ wrong_coordinates:
 		jsr clean_keyboard
 rts
 
+
+
 #функция выводит сообщение о том что введены соседствующие координаты
 #и очищает клавиатуру
 naighbors_coordinates:
@@ -1014,4 +1024,17 @@ load:
 		pop r0
 rts 
 
+bot_trying:
+		push r0 
+		ldi r0, 126
+		stv r0, 0xff
+		pop r0
+rts
+
+bot_arranged:
+	push r0 
+	ldi r0, 130
+	stv r0, 0xff
+	pop r0
+rts
 end
