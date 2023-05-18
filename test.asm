@@ -309,7 +309,8 @@ setsp 0xdd
 		pop r2 
 		jmp players_move
 	fi  
-
+	jsr hit_the_ship
+	jsr check_end_message
 	ldv 0xf1, r3 
 	 
 	if 
