@@ -15,6 +15,15 @@ start:
 	ldi r2, 31 
 	stv r2, 0xfc
 	stv r2, 0xfa
+#устанавливаем состояние картинки BATTLESHIP
+	ldi r2, 0
+	stv r2, 0xf9
+#Константы для функции Store ship Store 
+	ldi r2, 1
+	stv r2, 0xe0
+	ldi r2, 2
+	stv r2, 0xe1
+
 
 #выводим поле
 	jsr print_player_field
@@ -169,6 +178,8 @@ start:
 
 bot_move:
 setsp 0xdd
+	ldi r2, 1
+	stv r2, 0xf9
 	ldv 0xfe, r0 
 	ldi r1, 0b00010000
 	or r0, r1 
@@ -206,6 +217,8 @@ setsp 0xdd
 			dec r3 
 		is eq 
 			stv r3, 0xf0
+			ldi r2, 3
+			stv r2, 0xf9
 			jsr you_lost
 			jsr check_end_message
 			jmp start
@@ -221,8 +234,8 @@ rts
 players_move:
 setsp 0xdd
 #Передаём дисплею состояние, что сейчас ход игрока
-	ldi r0, 1
-	stv r0, 0xf9
+	ldi r2, 2
+	stv r2, 0xf9
 
 #Выводим сообщение пользовотелю, что сейчас его ход и надо ввести координаты куда хочешь ударить
 	jsr enter_coordinates_to_hit
@@ -810,7 +823,7 @@ store_ship:
 
 #загрузили в эту точку константу
 #она говорит, о том что в этой точке корабль
-	ldi r3, 1 
+	ldv 0xe0, r3 
 	st r2, r3
 
 	push r2 
@@ -958,7 +971,7 @@ store_cell:
 	is eq 
 		jmp cont
 	fi
-	ldi r3, 2
+	ldv 0xe1, r3
 	st r2, r3 
 cont:
 rts 
