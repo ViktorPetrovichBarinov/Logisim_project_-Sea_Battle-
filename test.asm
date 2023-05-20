@@ -10,7 +10,8 @@
 #выводим сообщение 
 	jsr check_end_message
 
-start:	 	
+start:	 
+	jsr full_clean_your_pitch
 	#очищаем поля на случай, если пользователь хочет поиграть ещё раз
 	ldi r2, 31 
 	stv r2, 0xfc
@@ -49,7 +50,7 @@ start:
 	stv r3, 0xf1
 	jsr check_end_message
 	
-	jsr players_move
+	# jsr players_move
 	
 
 #Проверка конца сообщения не нужна, потому что потом вызываем функцию расстановки корабле
@@ -83,7 +84,7 @@ start:
 	ldi r0, 4
 	jsr plus_number_tails
 	
-	
+
 	
 
 
@@ -165,6 +166,8 @@ start:
 	ldi r0, 1
 	jsr plus_number_tails
 	jsr check_end_message
+	jsr clean_your_pitch
+	jsr print_player_field
 ######################################################################
 #
 ######################################################################
@@ -188,8 +191,11 @@ start:
 
 bot_move:
 setsp 0xdd
+#поменять состояние дисплея
+#на то что сейчас ходит бот
 	ldi r2, 1
 	stv r2, 0xf9
+
 	ldv 0xfe, r0 
 	ldi r1, 0b00010000
 	or r0, r1 
@@ -917,12 +923,51 @@ rts
 
 
 
+clean_your_pitch:
+	push r0 
+	push r1 
+	push r2 
+
+	ldi r0, 0 
+	ldi r1, 100 
+
+	while 
+		cmp r0, r1 
+	stays ne 
+		ld r0, r2
+		dec r2  
+		if 
+			dec r2
+		is pl 
+			st r0, r2 
+		fi 
+		inc r0
+	wend 
+
+	pop r2 
+	pop r1 
+	pop r0
+rts
 
 
+full_clean_your_pitch:
+	push r0 
+	push r1 
+	push r2 
+	ldi r0, 0 
+	ldi r1, 100 
+	ldi r2, 0
+	while 
+		cmp r0, r1 
+	stays ne 
+		st r0, r2 
+		inc r0 
+	wend 
 
-
-
-
+	pop r2 
+	pop r1 
+	pop r0 
+rts 
 #в r0 - буква
 #в r1 - цифра
 from_figures_to_coord_bot:
