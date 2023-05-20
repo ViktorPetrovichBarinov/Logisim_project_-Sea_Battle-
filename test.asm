@@ -624,11 +624,11 @@ kill_or_hit_down_without_pop:
 		#иначе мы потбили корабль и он вертикальный
 		ldi r3, 65 
 		add r0, r3 
-		stv r3, 0xe2
+		stv r3, 0xe4
 
 		ldi r3, 48
 		add r1, r3 
-		stv r3, 0xe3
+		stv r3, 0xe5
 		ldi r3, 1
 		stv r3, 0xe8
 		jmp end_hit_the_ship
